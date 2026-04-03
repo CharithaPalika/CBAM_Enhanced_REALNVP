@@ -2,6 +2,8 @@
 
 This repository contains a PyTorch implementation of a RealNVP-based normalizing flow for image generation, with optional CBAM attention inside coupling-network residual blocks. 
 
+Project report: [Report.pdf](Report.pdf)
+
 ## What Is Included
 
 - RealNVP model implementation for multi-scale flow transformations.
